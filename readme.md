@@ -1,1 +1,1 @@
-[patika.dev](https://patika.dev) eğitimine devam! Bootstrap ile hazırladığım bu projede **Ürünler** sayfasını Grid Sistem ile hazırladım ve Card yapısıyla ürünleri sergiledim.
+[patika.dev](https://patika.dev) eğitimine devam! Bootstrap ile hazırladığım bu projede **Ürünler** sayfasını Grid Sistem ile hazırladım ve Card yapısıyla ürünleri sergilediğim **Müzik Dükkanım** sitem yayında.
